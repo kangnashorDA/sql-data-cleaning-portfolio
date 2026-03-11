@@ -15,3 +15,11 @@ Tools used:
 - PostgreSQL
 - SQL
 - pgAdmin
+
+Data Cleaning Steps:
+
+1. Initial dataset inspection
+2. NULL value detection
+3. Missing value marker detection (NA)
+4. Data anomaly inspection
+5. Data type conversion
